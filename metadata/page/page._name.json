@@ -1,0 +1,13 @@
+{
+  "_id": "page._name",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page._name--text.auto_name__1",
+      "_type": "text",
+      "label": "Name",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "/name"
+}
